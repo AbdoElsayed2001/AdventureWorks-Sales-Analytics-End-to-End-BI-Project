@@ -65,7 +65,9 @@ Dimension Tables:
 * Date
 * Territory
 
-![Data Model](assets/data_model.png)
+<div style="display:flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/AbdoElsayed2001/AdventureWorks-Sales-Analytics-End-to-End-BI-Project/blob/main/assets/5.PNG" width="400" alt="Screenshot 1"/>
+</div>
 
 ---
 
@@ -89,11 +91,9 @@ RETURN [Total Sales] - Prev
 
 ## 📊 Dashboard Overview
 
-![Dashboard](assets/dashboard.png)
-
-![Trends](assets/trends.png)
-
-![Region](assets/region.png)
+<div style="display:flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/AbdoElsayed2001/AdventureWorks-Sales-Analytics-End-to-End-BI-Project/blob/main/assets/15.PNG" width="600" alt="Screenshot 1"/>
+</div>
 
 ---
 
